@@ -17,13 +17,13 @@ public class HomeController {
 
 
     public String getProduct(){
-    	return "hello world! h w d";
+    	return "hello world!!!! h w d";
     }
 
 
     public String getCustom(){
     	return "hello world!";
-    }
+
 
 
 }
