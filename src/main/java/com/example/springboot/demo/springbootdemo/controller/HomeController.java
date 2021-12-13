@@ -23,7 +23,12 @@ public class HomeController {
 
     public String getCustom(){
     	return "hello world!";
+    }
 
+
+    public int sum(){
+        return 1;
+    }
 
 
 }
