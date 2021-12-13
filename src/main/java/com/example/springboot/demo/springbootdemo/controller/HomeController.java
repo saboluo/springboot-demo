@@ -17,7 +17,7 @@ public class HomeController {
 
 
     public String getProduct(){
-    	return "hello world!";
+    	return "hello world! h w d";
     }
 
 
