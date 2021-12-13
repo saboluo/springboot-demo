@@ -31,4 +31,9 @@ public class HomeController {
     }
 
 
+    public int sum-1(){
+        return 1;
+    }
+
+
 }
