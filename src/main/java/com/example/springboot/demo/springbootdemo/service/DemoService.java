@@ -15,5 +15,6 @@ public class DemoService {
 
     public void sum1(){}
 
+    public void sum2(){}
 
 }
