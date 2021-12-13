@@ -9,4 +9,11 @@ public class DemoService {
 
     }
 
+
+    public void sum(){}
+
+
+    public void sum1(){}
+
+
 }
