@@ -1,10 +1,8 @@
 package com.example.springboot.demo.springbootdemo.controller;
 
-import com.example.springboot.demo.springbootdemo.service.DemoService;
-import com.example.springboot.demo.springbootdemo.service.HomeService;
 
 
-public class HomeController {
+public class DemoController {
 
     static String age = "2333";
 
@@ -15,6 +13,7 @@ public class HomeController {
     }
 
 
+
     public String getProduct(){
     	return "hello world!!!! h w d";
     }
@@ -22,26 +21,7 @@ public class HomeController {
 
     public String getCustom(){
     	return "hello world!";
-    }
 
-
-    public int sum(){
-        return 1;
-    }
-
-
-    public int sum-1(){
-        return 1;
-
-
-    }
-
-
-    public int sum-1(){
-        return 1;
-
-
-    }
 
 
 }
