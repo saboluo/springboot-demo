@@ -17,4 +17,8 @@ public class DemoService {
 
     public void sum2(){}
 
+    public void sum3(){}
+
+    public void sum4(){}
+
 }

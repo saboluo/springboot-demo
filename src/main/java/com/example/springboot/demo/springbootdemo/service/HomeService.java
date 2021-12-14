@@ -4,4 +4,10 @@ public class HomeService {
 
     protected String name;
 
+
+    private String address;
+
+    
+
+
 }
