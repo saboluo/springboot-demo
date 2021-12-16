@@ -15,11 +15,6 @@ public class HomeController {
     }
 
 
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
-
->>>>>>> dev-2
     public String getProduct(){
     	return "hello world!!!! h w d";
     }
@@ -33,30 +28,14 @@ public class HomeController {
     public int sum(){
         return 1;
     }
-<<<<<<< HEAD
 
 
     public int sum-1(){
         return 1;
 
-
-    }
-
-
-    public int sum-1(){
-        return 1;
-
-
-=======
-
-
-    public int sum-1(){
-        return 1;
-=======
     public String getProduct(){
     	return " hello world!!!";
->>>>>>> Stashed changes
->>>>>>> dev-2
+
     }
 
 
