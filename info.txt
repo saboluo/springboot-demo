@@ -34,3 +34,20 @@ add ---2
 add-1
 add-2
 
+
+edit001
+
+edit--------
+
+xxxxxx
+lllll
+11111
+12345
+
+hello world
+
+wwww
+oioio
+xxx
+lll
+www
